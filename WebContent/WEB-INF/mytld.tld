@@ -1,0 +1,12 @@
+<taglib version="2.1">
+<tlib-version>1.2.1</tlib-version>
+<uri>www.bbb.com</uri>
+<tag>
+<name>loop</name>
+<tag-class>tags.MyCustomTag</tag-class>
+<attribute>
+	<name>count</name>
+	<required>true</required>
+</attribute>
+</tag>
+</taglib>
